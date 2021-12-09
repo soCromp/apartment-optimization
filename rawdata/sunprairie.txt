@@ -1,0 +1,107 @@
+{4 items
+"props":[5 items
+0:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"257 Talon Pl, Sun Prairie, WI 53590"
+"imgSrc":"https://photos.zillowstatic.com/fp/68472cee03da173f4e8d05101e0289af-p_e.jpg"
+"price":170000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"71484171"
+"longitude":-89.22485
+"latitude":43.17928
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1414
+"hasImage":true
+}
+1:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"252 S Musket Ridge Dr APT 1, Sun Prairie, WI 53590"
+"imgSrc":"https://photos.zillowstatic.com/fp/7fcf99be6a18eb1e8001953a9510dbb7-p_e.jpg"
+"price":198000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"71485087"
+"longitude":-89.19804
+"latitude":43.180622
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1196
+"hasImage":true
+}
+2:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"252 S Musket Ridge Dr APT 3, Sun Prairie, WI 53590"
+"imgSrc":"https://photos.zillowstatic.com/fp/b5c4656b9a0a85b89e21a0f5aeb04a46-p_e.jpg"
+"price":196000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"71482051"
+"longitude":-89.19804
+"latitude":43.180622
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1068
+"hasImage":true
+}
+3:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"972 Chandler Ln, Sun Prairie, WI 53590"
+"imgSrc":"https://photos.zillowstatic.com/fp/7ee36c3aababa436fe8c2d415d4bbea5-p_e.jpg"
+"price":210000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"68489120"
+"longitude":-89.228294
+"latitude":43.19779
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1606
+"hasImage":true
+}
+4:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"1300 School St APT 204, Sun Prairie, WI 53590"
+"imgSrc":"https://photos.zillowstatic.com/fp/fccb02ddbd5c0ebcbad849b744584888-p_e.jpg"
+"price":185000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"71484117"
+"longitude":-89.23132
+"latitude":43.199596
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":1316
+"hasImage":true
+}
+]
+"resultsPerPage":40
+"totalResultCount":5
+"totalPages":1
+}

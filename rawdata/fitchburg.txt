@@ -1,0 +1,227 @@
+{4 items
+"props":[11 items
+0:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"3010 Triverton Pike Dr APT 104, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/dfe6463279d714062bbcffc96a58ba42-p_e.jpg"
+"price":255000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"59773527"
+"longitude":-89.43127
+"latitude":43.018833
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1452
+"hasImage":true
+}
+1:{18 items
+"bathrooms":3
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5579 Brendan Ave, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/3bff0a8a83319816ab9d6c9324f6170f-p_e.jpg"
+"price":281000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"82803746"
+"longitude":-89.429855
+"latitude":43.013634
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1660
+"hasImage":true
+}
+2:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5579 Bantry Ln APT 4, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/2ecd764c23e12876319aa1fdb479dc66-p_e.jpg"
+"price":220000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"40148331"
+"longitude":-89.429245
+"latitude":43.019413
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1440
+"hasImage":true
+}
+3:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5595 Bantry Ln APT 105, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/84aa0d9808b015501540f06da0ae7670-p_e.jpg"
+"price":260000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81939751"
+"longitude":-89.43127
+"latitude":43.018833
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1634
+"hasImage":true
+}
+4:{18 items
+"bathrooms":3
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"21 Halite Way, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/9c6e0e058bc0b0a8debc1677dc70afd3-p_e.jpg"
+"price":254900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81923607"
+"longitude":-89.42565
+"latitude":42.9998
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1528
+"hasImage":true
+}
+5:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5196 Sassafras Dr UNIT 110, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/4d714480676d3a447f24bc41b9cf3f7e-p_e.jpg"
+"price":230000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81932892"
+"longitude":-89.39847
+"latitude":43.00855
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1252
+"hasImage":true
+}
+6:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"3020 Triverton Pike Dr APT 103, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/6fd33bffa7035e61c16560d9d34ae548-p_e.jpg"
+"price":230000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"59773518"
+"longitude":-89.43127
+"latitude":43.018833
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1256
+"hasImage":true
+}
+7:{18 items
+"bathrooms":3
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5643 Brendan Ave, Fitchburg, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/71a8ca62c007aeedf1d47ab734bcee3c-p_e.jpg"
+"price":285000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"83237435"
+"longitude":-89.429855
+"latitude":43.013634
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1695
+"hasImage":true
+}
+8:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"3020 Triverton Pike Dr APT 105, Madison, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/b524c88d15e92cdcb57bab463bb7c08e-p_e.jpg"
+"price":269900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"59773516"
+"longitude":-89.43127
+"latitude":43.018833
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1542
+"hasImage":true
+}
+9:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"27 Prince Way, Madison, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/db370817280138dac4703ec761202ed5-p_e.jpg"
+"price":441900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"317020740"
+"longitude":-89.40268
+"latitude":43.002445
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1538
+"hasImage":true
+}
+10:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"16 Prince Way, Madison, WI 53711"
+"imgSrc":"https://photos.zillowstatic.com/fp/db370817280138dac4703ec761202ed5-p_e.jpg"
+"price":489000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"317020738"
+"longitude":-89.40268
+"latitude":43.002445
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1538
+"hasImage":true
+}
+]
+"resultsPerPage":40
+"totalResultCount":11
+"totalPages":1
+}

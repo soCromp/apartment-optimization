@@ -1,0 +1,807 @@
+{4 items
+"props":[40 items
+0:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"6710 Park Ridge Dr APT C, Madison, WI 53719"
+"imgSrc":"https://photos.zillowstatic.com/fp/9c25343f76f2c673300f6f07b3738322-p_e.jpg"
+"price":149900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55395185"
+"longitude":-89.49972
+"latitude":43.042583
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":884
+"hasImage":true
+}
+1:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"309 W Washington Ave UNIT 415, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/47030be3faa16534bfc3454c62f7a35a-p_e.jpg"
+"price":399900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"104452949"
+"longitude":-89.38707
+"latitude":43.07191
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1287
+"hasImage":true
+}
+2:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5312 Congress Ave APT 2, Madison, WI 53718"
+"imgSrc":"https://photos.zillowstatic.com/fp/0baef7559c756f5be7829326c7344ae4-p_e.jpg"
+"price":204900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81935045"
+"longitude":-89.28605
+"latitude":43.138447
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":3
+"country":"USA"
+"currency":"USD"
+"livingArea":1328
+"hasImage":true
+}
+3:{18 items
+"bathrooms":3
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"61 Waunona Woods Ct, Madison, WI 53713"
+"imgSrc":"https://photos.zillowstatic.com/fp/d3a2b92096d8fb855b851217b7acd040-p_e.jpg"
+"price":275000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55427174"
+"longitude":-89.34127
+"latitude":43.050003
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":3
+"country":"USA"
+"currency":"USD"
+"livingArea":1710
+"hasImage":true
+}
+4:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"4130 Bruns Ave, Madison, WI 53714"
+"imgSrc":"https://photos.zillowstatic.com/fp/3e51ac6e4f529626bdbc4f685bed989e-p_e.jpg"
+"price":184900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"306441850"
+"longitude":-89.313965
+"latitude":43.100952
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":980
+"hasImage":true
+}
+5:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5323 Brody Dr UNIT 101, Madison, WI 53705"
+"imgSrc":"https://photos.zillowstatic.com/fp/5d3961bea913413a9baa4d41cd7c7bf3-p_e.jpg"
+"price":168900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81925133"
+"longitude":-89.47448
+"latitude":43.07649
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":995
+"hasImage":true
+}
+6:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"905 Harbor House Dr UNIT 3, Madison, WI 53719"
+"imgSrc":"https://photos.zillowstatic.com/fp/491ca9601ff9c9ec4b6b856621cd3c81-p_e.jpg"
+"price":189900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"104451421"
+"longitude":-89.50789
+"latitude":43.049046
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1005
+"hasImage":true
+}
+7:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"224 Grand Canyon Dr, Madison, WI 53705"
+"imgSrc":"https://photos.zillowstatic.com/fp/7bdf8f8af71f0da20548092eac732d55-p_e.jpg"
+"price":189000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55392407"
+"longitude":-89.496864
+"latitude":43.063316
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":3
+"country":"USA"
+"currency":"USD"
+"livingArea":1452
+"hasImage":true
+}
+8:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"3100 Lake Mendota Dr APT 605, Madison, WI 53705"
+"imgSrc":"https://photos.zillowstatic.com/fp/4ca9376d9972d1cc91192456112e722b-p_e.jpg"
+"price":360000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55398481"
+"longitude":-89.445526
+"latitude":43.08719
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1130
+"hasImage":true
+}
+9:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"6802 Raymond Rd APT 107, Madison, WI 53719"
+"imgSrc":"https://photos.zillowstatic.com/fp/05a47cf18bf425fbd080b118251cb930-p_e.jpg"
+"price":199000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55395450"
+"longitude":-89.50015
+"latitude":43.032143
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1564
+"hasImage":true
+}
+10:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"351 W Wilson St UNIT 4, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/14a473c283b0018e53a603f06a7ac281-p_e.jpg"
+"price":330000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55406010"
+"longitude":-89.385315
+"latitude":43.069065
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":894
+"hasImage":true
+}
+11:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"1150 Williamson St APT 205, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/3e913464353ae928d24afffc1c5a7bcd-p_e.jpg"
+"price":310000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55397270"
+"longitude":-89.36473
+"latitude":43.083313
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1090
+"hasImage":true
+}
+12:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"1014 Fiedler Ln UNIT 29, Madison, WI 53713"
+"imgSrc":"https://photos.zillowstatic.com/fp/a0a22f74cddf85cccc8edfc76b28d189-p_e.jpg"
+"price":124900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81935681"
+"longitude":-89.399605
+"latitude":43.037582
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1249
+"hasImage":true
+}
+13:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"360 W Washington Ave UNIT 905, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/d12bc84b44385b5a8d0b54ca4f61f95f-p_e.jpg"
+"price":419900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"61122482"
+"longitude":-89.3884
+"latitude":43.072067
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1241
+"hasImage":true
+}
+14:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"6403 Bridge Rd UNIT 104, Madison, WI 53713"
+"imgSrc":"https://photos.zillowstatic.com/fp/9648b93bebe5bf1290766ed482f1129f-p_e.jpg"
+"price":199000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55427092"
+"longitude":-89.33865
+"latitude":43.050488
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1136
+"hasImage":true
+}
+15:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"123 W Washington Ave UNIT 402, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/1ce0da74668d8bd8af8f8861a838f869-p_e.jpg"
+"price":353000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"71483624"
+"longitude":-89.38584
+"latitude":43.073254
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":960
+"hasImage":true
+}
+16:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"121 S Hamilton St UNIT 305, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/8656265bf3645ead5ec14213534763fc-p_e.jpg"
+"price":177900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81934296"
+"longitude":-89.384026
+"latitude":43.072132
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":438
+"hasImage":true
+}
+17:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"123 N Blount St APT 107, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/f0f9f529e9bb0b9290ecc0dde3352abd-p_e.jpg"
+"price":178500
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"71481954"
+"longitude":-89.378555
+"latitude":43.081226
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":504
+"hasImage":true
+}
+18:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":435.6
+"address":"78 Craig Ave, Madison, WI 53705"
+"imgSrc":"https://photos.zillowstatic.com/fp/c991a304a43c5348cbd8b4934ef5e444-p_e.jpg"
+"price":169900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55399434"
+"longitude":-89.47281
+"latitude":43.075962
+"lotAreaUnit":"sqft"
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":768
+"hasImage":true
+}
+19:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"7207 Flagship Dr UNIT 7, Madison, WI 53719"
+"imgSrc":"https://photos.zillowstatic.com/fp/b9c46c1d3f7f21c7bdf0e6e2632dc456-p_e.jpg"
+"price":165000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81924501"
+"longitude":-89.50825
+"latitude":43.04879
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":987
+"hasImage":true
+}
+20:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"137 E Wilson St UNIT 314, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/b5a91f435df8ba202305f49930a16aad-p_e.jpg"
+"price":485000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81940864"
+"longitude":-89.37858
+"latitude":43.074036
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1314
+"hasImage":true
+}
+21:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"211 S Henry St UNIT 603, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/2ecd56c46ca08307bfa735741075909e-p_e.jpg"
+"price":974900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"302810786"
+"longitude":-89.38454
+"latitude":43.070923
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1694
+"hasImage":true
+}
+22:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"831 E Mifflin St, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/f80d88e65a705d511942b534cebabd80-p_e.jpg"
+"price":379900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"249660625"
+"longitude":-89.37488
+"latitude":43.08212
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1079
+"hasImage":true
+}
+23:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":2178
+"address":"1233 Sherman Ave, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/f9d4ce4cf1da670f922866a6f062b7ad-p_e.jpg"
+"price":449900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55396812"
+"longitude":-89.37285
+"latitude":43.091637
+"lotAreaUnit":"sqft"
+"daysOnZillow":-1
+"bedrooms":4
+"country":"USA"
+"currency":"USD"
+"livingArea":1967
+"hasImage":true
+}
+24:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"332 Amoth Ct APT F, Madison, WI 53704"
+"imgSrc":"https://photos.zillowstatic.com/fp/632bd9b4dadcb3d8e9a29158e9e50cd6-p_e.jpg"
+"price":199900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81920017"
+"longitude":-89.35433
+"latitude":43.091427
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":664
+"hasImage":true
+}
+25:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"404 S Blount St UNIT 104, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/d92d594fcd8cdc54ef774b8960d6fb84-p_e.jpg"
+"price":550000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55398183"
+"longitude":-89.3734
+"latitude":43.076256
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1133
+"hasImage":true
+}
+26:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"1002 N Sunnyvale Ln, Madison, WI 53713"
+"imgSrc":"https://photos.zillowstatic.com/fp/0cf722048f8ab7276098090e8468c2c8-p_e.jpg"
+"price":99000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"2090608947"
+"longitude":-89.369675
+"latitude":43.03184
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":750
+"hasImage":true
+}
+27:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"135 Ponwood Cir, Madison, WI 53717"
+"imgSrc":"https://photos.zillowstatic.com/fp/f6187dd5902c4430bd86635a334704d2-p_e.jpg"
+"price":225000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55388787"
+"longitude":-89.50064
+"latitude":43.081074
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1238
+"hasImage":true
+}
+28:{18 items
+"bathrooms":4
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"137 E Wilson St UNIT 1412, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/a0386a788acacb6247db9c9afede0f45-p_e.jpg"
+"price":2499999
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"81929217"
+"longitude":-89.37858
+"latitude":43.074036
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":3
+"country":"USA"
+"currency":"USD"
+"livingArea":3556
+"hasImage":true
+}
+29:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"155 E Wilson St APT 301, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/388b8c5ca334629239a82f104d57a968-p_e.jpg"
+"price":885000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55406530"
+"longitude":-89.37825
+"latitude":43.07457
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":2028
+"hasImage":true
+}
+30:{18 items
+"bathrooms":3
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"6408 Offshore Dr, Madison, WI 53705"
+"imgSrc":"https://photos.zillowstatic.com/fp/eab443e3ba3b94c76c826f75b0f60347-p_e.jpg"
+"price":295000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"59773934"
+"longitude":-89.49085
+"latitude":43.063553
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":3
+"country":"USA"
+"currency":"USD"
+"livingArea":1868
+"hasImage":true
+}
+31:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"327 East Blf, Madison, WI 53704"
+"imgSrc":"https://photos.zillowstatic.com/fp/f8fe060e6eea6bed19de3f8f24747c69-p_e.jpg"
+"price":139900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55432625"
+"longitude":-89.364876
+"latitude":43.1325
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":876
+"hasImage":true
+}
+32:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"6758 Park Ridge Dr APT C, Madison, WI 53719"
+"imgSrc":"https://photos.zillowstatic.com/fp/33076753bd7fe4c2f62c92d0816aed66-p_e.jpg"
+"price":169900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55395209"
+"longitude":-89.49972
+"latitude":43.042583
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":907
+"hasImage":true
+}
+33:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"530 W Doty St UNIT 102, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/ca356d961df0b749114fd3762a8adcb2-p_e.jpg"
+"price":265000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55406063"
+"longitude":-89.3902
+"latitude":43.068207
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":852
+"hasImage":true
+}
+34:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"615 W Main St APT 109, Madison, WI 53703"
+"imgSrc":"https://photos.zillowstatic.com/fp/282292032301620e0bb50b53041be528-p_e.jpg"
+"price":549000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"63012861"
+"longitude":-89.39141
+"latitude":43.06736
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1703
+"hasImage":true
+}
+35:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"116 S Mills St, Madison, WI 53715"
+"imgSrc":"https://photos.zillowstatic.com/fp/ea51aad798a46c4dfe470ae35a362536-p_e.jpg"
+"price":299900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55405639"
+"longitude":-89.404564
+"latitude":43.065624
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1267
+"hasImage":true
+}
+36:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"1804 Maplecrest Dr #203, Verona, WI 53593"
+"imgSrc":"https://photos.zillowstatic.com/fp/2fc2b2774d9f8767adc3052ac7753d03-p_e.jpg"
+"price":487900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"191087278"
+"longitude":-89.54148
+"latitude":43.03421
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":3
+"country":"USA"
+"currency":"USD"
+"livingArea":1827
+"hasImage":true
+}
+37:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"3041 Nessling St, Madison, WI 53719"
+"imgSrc":"https://photos.zillowstatic.com/fp/78d4261199c81495a137298a6a5ec846-p_e.jpg"
+"price":275000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55383148"
+"longitude":-89.51762
+"latitude":43.01726
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1642
+"hasImage":true
+}
+38:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"6 Captains Ct UNIT 6, Madison, WI 53719"
+"imgSrc":"https://photos.zillowstatic.com/fp/0f5533d0e20a27dc8f3424f85f516059-p_e.jpg"
+"price":215000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"102961122"
+"longitude":-89.50789
+"latitude":43.049046
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1333
+"hasImage":true
+}
+39:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"23 Saukdale Trl, Madison, WI 53717"
+"imgSrc":"https://photos.zillowstatic.com/fp/27b0f520462caa5c72c4549159a0f311-p_e.jpg"
+"price":260000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"55389900"
+"longitude":-89.50894
+"latitude":43.076126
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1363
+"hasImage":true
+}
+]
+"resultsPerPage":40
+"totalResultCount":125
+"totalPages":4
+}

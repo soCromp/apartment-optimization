@@ -1,0 +1,47 @@
+{4 items
+"props":[2 items
+0:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"102 Prairie Heights Dr APT 307, Verona, WI 53593"
+"imgSrc":"https://photos.zillowstatic.com/fp/2713bc084b00736c4c5af821f965ccc4-p_e.jpg"
+"price":179900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"59773463"
+"longitude":-89.532656
+"latitude":42.974803
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1300
+"hasImage":true
+}
+1:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"102 Prairie Heights Dr APT 112, Verona, WI 53593"
+"imgSrc":"https://photos.zillowstatic.com/fp/fb3168a65bf6a763e0f97c9220c31005-p_e.jpg"
+"price":149900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"59773435"
+"longitude":-89.532404
+"latitude":42.974742
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":1
+"country":"USA"
+"currency":"USD"
+"livingArea":800
+"hasImage":true
+}
+]
+"resultsPerPage":40
+"totalResultCount":2
+"totalPages":1
+}

@@ -1,0 +1,107 @@
+{4 items
+"props":[5 items
+0:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"2811 Century Harbor Rd APT 4, Middleton, WI 53562"
+"imgSrc":"https://photos.zillowstatic.com/fp/4c2525b51e47ca3c5570149e3e293e8a-p_e.jpg"
+"price":169000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"40161888"
+"longitude":-89.4843
+"latitude":43.10476
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1250
+"hasImage":true
+}
+1:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"2824 Pleasant View Rd UNIT 201, Middleton, WI 53562"
+"imgSrc":"https://photos.zillowstatic.com/fp/8377a04bc906591ff8fd7b3f87731fb0-p_e.jpg"
+"price":189900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"83239250"
+"longitude":-89.53733
+"latitude":43.10751
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":998
+"hasImage":true
+}
+2:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"7106 Fortune Dr APT 23, Middleton, WI 53562"
+"imgSrc":"https://photos.zillowstatic.com/fp/144fff04e6f9048cd6fbddef091e04dc-p_e.jpg"
+"price":109000
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"40163155"
+"longitude":-89.504
+"latitude":43.088303
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":896
+"hasImage":true
+}
+3:{18 items
+"bathrooms":2
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"5534 Century Ave APT 3, Middleton, WI 53562"
+"imgSrc":"https://photos.zillowstatic.com/fp/a47113118bb7be7768ab078ac1c7561a-p_e.jpg"
+"price":179900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"40165624"
+"longitude":-89.47591
+"latitude":43.11074
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":1107
+"hasImage":true
+}
+4:{18 items
+"bathrooms":1
+"propertyType":"CONDO"
+"lotAreaValue":NULL
+"address":"7106 Fortune Dr APT 26, Middleton, WI 53562"
+"imgSrc":"https://photos.zillowstatic.com/fp/fc1efd0cd9977adea56ae58b2b1e6692-p_e.jpg"
+"price":124900
+"listingDateTime":NULL
+"listingStatus":"FOR_SALE"
+"zpid":"40163158"
+"longitude":-89.504
+"latitude":43.088303
+"lotAreaUnit":NULL
+"daysOnZillow":-1
+"bedrooms":2
+"country":"USA"
+"currency":"USD"
+"livingArea":890
+"hasImage":true
+}
+]
+"resultsPerPage":40
+"totalResultCount":5
+"totalPages":1
+}
