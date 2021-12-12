@@ -1,64 +1,64 @@
-bathrooms,propertyType,lotAreaValue,address,imgSrc,price,longitude,latitude,bedrooms,livingArea,hasImage,driving,walking,bicycling
-2,CONDO,-1,"257 Talon Pl, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/68472cee03da173f4e8d05101e0289af-p_e.jpg,1700,-89.22485,43.17928,2,1414,TRUE,27,276,78
-2,CONDO,-1,"252 S Musket Ridge Dr APT 1, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/7fcf99be6a18eb1e8001953a9510dbb7-p_e.jpg,1980,-89.19804,43.180622,2,1196,TRUE,29,301,83
-2,CONDO,-1,"252 S Musket Ridge Dr APT 3, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/b5c4656b9a0a85b89e21a0f5aeb04a46-p_e.jpg,1960,-89.19804,43.180622,2,1068,TRUE,29,301,83
-2,CONDO,-1,"972 Chandler Ln, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/7ee36c3aababa436fe8c2d415d4bbea5-p_e.jpg,2100,-89.228294,43.19779,2,1606,TRUE,27,299,88
-1,CONDO,-1,"1300 School St APT 204, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/fccb02ddbd5c0ebcbad849b744584888-p_e.jpg,1850,-89.23132,43.199596,1,1316,TRUE,28,299,88
-2,CONDO,-1,"3010 Triverton Pike Dr APT 104, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/dfe6463279d714062bbcffc96a58ba42-p_e.jpg,2550,-89.43127,43.018833,2,1452,TRUE,15,91,23
-3,CONDO,-1,"5579 Brendan Ave, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/3bff0a8a83319816ab9d6c9324f6170f-p_e.jpg,2810,-89.429855,43.013634,2,1660,TRUE,14,94,29
-2,CONDO,-1,"5579 Bantry Ln APT 4, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/2ecd764c23e12876319aa1fdb479dc66-p_e.jpg,2200,-89.429245,43.019413,2,1440,TRUE,15,89,23
-2,CONDO,-1,"5595 Bantry Ln APT 105, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/84aa0d9808b015501540f06da0ae7670-p_e.jpg,2600,-89.43127,43.018833,2,1634,TRUE,14,87,22
-3,CONDO,-1,"21 Halite Way, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/9c6e0e058bc0b0a8debc1677dc70afd3-p_e.jpg,2549,-89.42565,42.9998,2,1528,TRUE,16,111,33
-2,CONDO,-1,"5196 Sassafras Dr UNIT 110, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/4d714480676d3a447f24bc41b9cf3f7e-p_e.jpg,2300,-89.39847,43.00855,2,1252,TRUE,14,106,28
-2,CONDO,-1,"3020 Triverton Pike Dr APT 103, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/6fd33bffa7035e61c16560d9d34ae548-p_e.jpg,2300,-89.43127,43.018833,2,1256,TRUE,15,91,23
-3,CONDO,-1,"5643 Brendan Ave, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/71a8ca62c007aeedf1d47ab734bcee3c-p_e.jpg,2850,-89.429855,43.013634,2,1695,TRUE,14,94,29
-2,CONDO,-1,"3020 Triverton Pike Dr APT 105, Madison, WI 53711",https://photos.zillowstatic.com/fp/b524c88d15e92cdcb57bab463bb7c08e-p_e.jpg,2699,-89.43127,43.018833,2,1542,TRUE,15,91,23
-2,CONDO,-1,"27 Prince Way, Madison, WI 53711",https://photos.zillowstatic.com/fp/db370817280138dac4703ec761202ed5-p_e.jpg,4419,-89.40268,43.002445,2,1538,TRUE,15,117,30
-2,CONDO,-1,"16 Prince Way, Madison, WI 53711",https://photos.zillowstatic.com/fp/db370817280138dac4703ec761202ed5-p_e.jpg,4890,-89.40268,43.002445,2,1538,TRUE,14,115,30
-2,CONDO,-1,"102 Prairie Heights Dr APT 307, Verona, WI 53593",https://photos.zillowstatic.com/fp/2713bc084b00736c4c5af821f965ccc4-p_e.jpg,1799,-89.532656,42.974803,2,1300,TRUE,19,201,54
-1,CONDO,-1,"102 Prairie Heights Dr APT 112, Verona, WI 53593",https://photos.zillowstatic.com/fp/fb3168a65bf6a763e0f97c9220c31005-p_e.jpg,1499,-89.532404,42.974742,1,800,TRUE,19,201,54
-1,CONDO,-1,"6710 Park Ridge Dr APT C, Madison, WI 53719",https://photos.zillowstatic.com/fp/9c25343f76f2c673300f6f07b3738322-p_e.jpg,1499,-89.49972,43.042583,2,884,TRUE,17,118,32
-1,CONDO,-1,"309 W Washington Ave UNIT 415, Madison, WI 53703",https://photos.zillowstatic.com/fp/47030be3faa16534bfc3454c62f7a35a-p_e.jpg,3999,-89.38707,43.07191,2,1287,TRUE,5,22,7
-2,CONDO,-1,"5312 Congress Ave APT 2, Madison, WI 53718",https://photos.zillowstatic.com/fp/0baef7559c756f5be7829326c7344ae4-p_e.jpg,2049,-89.28605,43.138447,3,1328,TRUE,22,180,55
-3,CONDO,-1,"61 Waunona Woods Ct, Madison, WI 53713",https://photos.zillowstatic.com/fp/d3a2b92096d8fb855b851217b7acd040-p_e.jpg,2750,-89.34127,43.050003,3,1710,TRUE,13,95,26
-1,CONDO,-1,"4130 Bruns Ave, Madison, WI 53714",https://photos.zillowstatic.com/fp/3e51ac6e4f529626bdbc4f685bed989e-p_e.jpg,1849,-89.313965,43.100952,1,980,TRUE,19,117,35
-2,CONDO,-1,"5323 Brody Dr UNIT 101, Madison, WI 53705",https://photos.zillowstatic.com/fp/5d3961bea913413a9baa4d41cd7c7bf3-p_e.jpg,1689,-89.47448,43.07649,2,995,TRUE,9,77,21
-2,CONDO,-1,"905 Harbor House Dr UNIT 3, Madison, WI 53719",https://photos.zillowstatic.com/fp/491ca9601ff9c9ec4b6b856621cd3c81-p_e.jpg,1899,-89.50789,43.049046,2,1005,TRUE,16,119,32
-2,CONDO,-1,"224 Grand Canyon Dr, Madison, WI 53705",https://photos.zillowstatic.com/fp/7bdf8f8af71f0da20548092eac732d55-p_e.jpg,1890,-89.496864,43.063316,3,1452,TRUE,12,97,31
-2,CONDO,-1,"3100 Lake Mendota Dr APT 605, Madison, WI 53705",https://photos.zillowstatic.com/fp/4ca9376d9972d1cc91192456112e722b-p_e.jpg,3600,-89.445526,43.08719,2,1130,TRUE,8,53,15
-2,CONDO,-1,"6802 Raymond Rd APT 107, Madison, WI 53719",https://photos.zillowstatic.com/fp/05a47cf18bf425fbd080b118251cb930-p_e.jpg,1990,-89.50015,43.032143,2,1564,TRUE,16,120,32
-2,CONDO,-1,"351 W Wilson St UNIT 4, Madison, WI 53703",https://photos.zillowstatic.com/fp/14a473c283b0018e53a603f06a7ac281-p_e.jpg,3300,-89.385315,43.069065,1,894,TRUE,5,24,8
-1,CONDO,-1,"1150 Williamson St APT 205, Madison, WI 53703",https://photos.zillowstatic.com/fp/3e913464353ae928d24afffc1c5a7bcd-p_e.jpg,3100,-89.36473,43.083313,2,1090,TRUE,9,52,17
-1,CONDO,-1,"1014 Fiedler Ln UNIT 29, Madison, WI 53713",https://photos.zillowstatic.com/fp/a0a22f74cddf85cccc8edfc76b28d189-p_e.jpg,1249,-89.399605,43.037582,2,1249,TRUE,9,55,17
-2,CONDO,-1,"360 W Washington Ave UNIT 905, Madison, WI 53703",https://photos.zillowstatic.com/fp/d12bc84b44385b5a8d0b54ca4f61f95f-p_e.jpg,4199,-89.3884,43.072067,2,1241,TRUE,4,21,6
-2,CONDO,-1,"6403 Bridge Rd UNIT 104, Madison, WI 53713",https://photos.zillowstatic.com/fp/9648b93bebe5bf1290766ed482f1129f-p_e.jpg,1990,-89.33865,43.050488,2,1136,TRUE,12,99,29
-2,CONDO,-1,"123 W Washington Ave UNIT 402, Madison, WI 53703",https://photos.zillowstatic.com/fp/1ce0da74668d8bd8af8f8861a838f869-p_e.jpg,3530,-89.38584,43.073254,1,960,TRUE,5,24,7
-1,CONDO,-1,"121 S Hamilton St UNIT 305, Madison, WI 53703",https://photos.zillowstatic.com/fp/8656265bf3645ead5ec14213534763fc-p_e.jpg,1779,-89.384026,43.072132,1,438,TRUE,6,26,8
-1,CONDO,-1,"123 N Blount St APT 107, Madison, WI 53703",https://photos.zillowstatic.com/fp/f0f9f529e9bb0b9290ecc0dde3352abd-p_e.jpg,1785,-89.378555,43.081226,1,504,TRUE,7,36,11
-1,CONDO,435.6,"78 Craig Ave, Madison, WI 53705",https://photos.zillowstatic.com/fp/c991a304a43c5348cbd8b4934ef5e444-p_e.jpg,1699,-89.47281,43.075962,2,768,TRUE,9,76,21
-1,CONDO,-1,"7207 Flagship Dr UNIT 7, Madison, WI 53719",https://photos.zillowstatic.com/fp/b9c46c1d3f7f21c7bdf0e6e2632dc456-p_e.jpg,1650,-89.50825,43.04879,2,987,TRUE,15,119,32
-2,CONDO,-1,"137 E Wilson St UNIT 314, Madison, WI 53703",https://photos.zillowstatic.com/fp/b5a91f435df8ba202305f49930a16aad-p_e.jpg,4850,-89.37858,43.074036,2,1314,TRUE,7,33,10
-2,CONDO,-1,"211 S Henry St UNIT 603, Madison, WI 53703",https://photos.zillowstatic.com/fp/2ecd56c46ca08307bfa735741075909e-p_e.jpg,9749,-89.38454,43.070923,2,1694,TRUE,5,26,8
-2,CONDO,-1,"831 E Mifflin St, Madison, WI 53703",https://photos.zillowstatic.com/fp/f80d88e65a705d511942b534cebabd80-p_e.jpg,3799,-89.37488,43.08212,2,1079,TRUE,8,40,12
-2,CONDO,2178,"1233 Sherman Ave, Madison, WI 53703",https://photos.zillowstatic.com/fp/f9d4ce4cf1da670f922866a6f062b7ad-p_e.jpg,4499,-89.37285,43.091637,4,1967,TRUE,9,50,17
-1,CONDO,-1,"332 Amoth Ct APT F, Madison, WI 53704",https://photos.zillowstatic.com/fp/632bd9b4dadcb3d8e9a29158e9e50cd6-p_e.jpg,1999,-89.35433,43.091427,1,664,TRUE,13,68,23
-2,CONDO,-1,"404 S Blount St UNIT 104, Madison, WI 53703",https://photos.zillowstatic.com/fp/d92d594fcd8cdc54ef774b8960d6fb84-p_e.jpg,5500,-89.3734,43.076256,2,1133,TRUE,8,41,14
-1,CONDO,-1,"1002 N Sunnyvale Ln, Madison, WI 53713",https://photos.zillowstatic.com/fp/0cf722048f8ab7276098090e8468c2c8-p_e.jpg,990,-89.369675,43.03184,1,750,TRUE,12,87,26
-2,CONDO,-1,"135 Ponwood Cir, Madison, WI 53717",https://photos.zillowstatic.com/fp/f6187dd5902c4430bd86635a334704d2-p_e.jpg,2250,-89.50064,43.081074,2,1238,TRUE,13,108,30
-4,CONDO,-1,"137 E Wilson St UNIT 1412, Madison, WI 53703",https://photos.zillowstatic.com/fp/a0386a788acacb6247db9c9afede0f45-p_e.jpg,24999.99,-89.37858,43.074036,3,3556,TRUE,7,33,10
-2,CONDO,-1,"155 E Wilson St APT 301, Madison, WI 53703",https://photos.zillowstatic.com/fp/388b8c5ca334629239a82f104d57a968-p_e.jpg,8850,-89.37825,43.07457,2,2028,TRUE,8,36,12
-3,CONDO,-1,"6408 Offshore Dr, Madison, WI 53705",https://photos.zillowstatic.com/fp/eab443e3ba3b94c76c826f75b0f60347-p_e.jpg,2950,-89.49085,43.063553,3,1868,TRUE,12,93,26
-2,CONDO,-1,"327 East Blf, Madison, WI 53704",https://photos.zillowstatic.com/fp/f8fe060e6eea6bed19de3f8f24747c69-p_e.jpg,1399,-89.364876,43.1325,2,876,TRUE,16,108,32
-2,CONDO,-1,"6758 Park Ridge Dr APT C, Madison, WI 53719",https://photos.zillowstatic.com/fp/33076753bd7fe4c2f62c92d0816aed66-p_e.jpg,1699,-89.49972,43.042583,2,907,TRUE,17,118,32
-1,CONDO,-1,"530 W Doty St UNIT 102, Madison, WI 53703",https://photos.zillowstatic.com/fp/ca356d961df0b749114fd3762a8adcb2-p_e.jpg,2650,-89.3902,43.068207,1,852,TRUE,4,19,5
-2,CONDO,-1,"615 W Main St APT 109, Madison, WI 53703",https://photos.zillowstatic.com/fp/282292032301620e0bb50b53041be528-p_e.jpg,5490,-89.39141,43.06736,2,1703,TRUE,4,17,4
-2,CONDO,-1,"116 S Mills St, Madison, WI 53715",https://photos.zillowstatic.com/fp/ea51aad798a46c4dfe470ae35a362536-p_e.jpg,2999,-89.404564,43.065624,2,1267,TRUE,2,10,2
-2,CONDO,-1,"1804 Maplecrest Dr #203, Verona, WI 53593",https://photos.zillowstatic.com/fp/2fc2b2774d9f8767adc3052ac7753d03-p_e.jpg,4879,-89.54148,43.03421,3,1827,TRUE,20,163,46
-2,CONDO,-1,"3041 Nessling St, Madison, WI 53719",https://photos.zillowstatic.com/fp/78d4261199c81495a137298a6a5ec846-p_e.jpg,2750,-89.51762,43.01726,2,1642,TRUE,19,154,42
-2,CONDO,-1,"6 Captains Ct UNIT 6, Madison, WI 53719",https://photos.zillowstatic.com/fp/0f5533d0e20a27dc8f3424f85f516059-p_e.jpg,2150,-89.50789,43.049046,2,1333,TRUE,15,117,31
-2,CONDO,-1,"23 Saukdale Trl, Madison, WI 53717",https://photos.zillowstatic.com/fp/27b0f520462caa5c72c4549159a0f311-p_e.jpg,2600,-89.50894,43.076126,2,1363,TRUE,13,108,32
-2,CONDO,-1,"2811 Century Harbor Rd APT 4, Middleton, WI 53562",https://photos.zillowstatic.com/fp/4c2525b51e47ca3c5570149e3e293e8a-p_e.jpg,1690,-89.4843,43.10476,2,1250,TRUE,14,116,32
-1,CONDO,-1,"2824 Pleasant View Rd UNIT 201, Middleton, WI 53562",https://photos.zillowstatic.com/fp/8377a04bc906591ff8fd7b3f87731fb0-p_e.jpg,1899,-89.53733,43.10751,2,998,TRUE,19,165,45
-1,CONDO,-1,"7106 Fortune Dr APT 23, Middleton, WI 53562",https://photos.zillowstatic.com/fp/144fff04e6f9048cd6fbddef091e04dc-p_e.jpg,1090,-89.504,43.088303,2,896,TRUE,13,115,31
-2,CONDO,-1,"5534 Century Ave APT 3, Middleton, WI 53562",https://photos.zillowstatic.com/fp/a47113118bb7be7768ab078ac1c7561a-p_e.jpg,1799,-89.47591,43.11074,2,1107,TRUE,14,124,33
-1,CONDO,-1,"7106 Fortune Dr APT 26, Middleton, WI 53562",https://photos.zillowstatic.com/fp/fc1efd0cd9977adea56ae58b2b1e6692-p_e.jpg,1249,-89.504,43.088303,2,890,TRUE,13,115,31
+nbath,propertyType,lotAreaValue,address,imgSrc,budget,longitude,latitude,nbed,livingArea,hasImage,car,walk,bike
+2,CONDO,-1.0,"257 Talon Pl, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/68472cee03da173f4e8d05101e0289af-p_e.jpg,1700.0,-89.22485,43.17928,2,1414,True,27,276,78
+2,CONDO,-1.0,"252 S Musket Ridge Dr APT 1, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/7fcf99be6a18eb1e8001953a9510dbb7-p_e.jpg,1980.0,-89.19804,43.180622,2,1196,True,29,301,83
+2,CONDO,-1.0,"252 S Musket Ridge Dr APT 3, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/b5c4656b9a0a85b89e21a0f5aeb04a46-p_e.jpg,1960.0,-89.19804,43.180622,2,1068,True,29,301,83
+2,CONDO,-1.0,"972 Chandler Ln, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/7ee36c3aababa436fe8c2d415d4bbea5-p_e.jpg,2100.0,-89.228294,43.19779,2,1606,True,27,299,88
+1,CONDO,-1.0,"1300 School St APT 204, Sun Prairie, WI 53590",https://photos.zillowstatic.com/fp/fccb02ddbd5c0ebcbad849b744584888-p_e.jpg,1850.0,-89.23132,43.199596,1,1316,True,28,299,88
+2,CONDO,-1.0,"3010 Triverton Pike Dr APT 104, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/dfe6463279d714062bbcffc96a58ba42-p_e.jpg,2550.0,-89.43127,43.018833,2,1452,True,15,91,23
+3,CONDO,-1.0,"5579 Brendan Ave, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/3bff0a8a83319816ab9d6c9324f6170f-p_e.jpg,2810.0,-89.429855,43.013634,2,1660,True,14,94,29
+2,CONDO,-1.0,"5579 Bantry Ln APT 4, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/2ecd764c23e12876319aa1fdb479dc66-p_e.jpg,2200.0,-89.429245,43.019413,2,1440,True,15,89,23
+2,CONDO,-1.0,"5595 Bantry Ln APT 105, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/84aa0d9808b015501540f06da0ae7670-p_e.jpg,2600.0,-89.43127,43.018833,2,1634,True,14,87,22
+3,CONDO,-1.0,"21 Halite Way, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/9c6e0e058bc0b0a8debc1677dc70afd3-p_e.jpg,2549.0,-89.42565,42.9998,2,1528,True,16,111,33
+2,CONDO,-1.0,"5196 Sassafras Dr UNIT 110, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/4d714480676d3a447f24bc41b9cf3f7e-p_e.jpg,2300.0,-89.39847,43.00855,2,1252,True,14,106,28
+2,CONDO,-1.0,"3020 Triverton Pike Dr APT 103, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/6fd33bffa7035e61c16560d9d34ae548-p_e.jpg,2300.0,-89.43127,43.018833,2,1256,True,15,91,23
+3,CONDO,-1.0,"5643 Brendan Ave, Fitchburg, WI 53711",https://photos.zillowstatic.com/fp/71a8ca62c007aeedf1d47ab734bcee3c-p_e.jpg,2850.0,-89.429855,43.013634,2,1695,True,14,94,29
+2,CONDO,-1.0,"3020 Triverton Pike Dr APT 105, Madison, WI 53711",https://photos.zillowstatic.com/fp/b524c88d15e92cdcb57bab463bb7c08e-p_e.jpg,2699.0,-89.43127,43.018833,2,1542,True,15,91,23
+2,CONDO,-1.0,"27 Prince Way, Madison, WI 53711",https://photos.zillowstatic.com/fp/db370817280138dac4703ec761202ed5-p_e.jpg,4419.0,-89.40268,43.002445,2,1538,True,15,117,30
+2,CONDO,-1.0,"16 Prince Way, Madison, WI 53711",https://photos.zillowstatic.com/fp/db370817280138dac4703ec761202ed5-p_e.jpg,4890.0,-89.40268,43.002445,2,1538,True,14,115,30
+2,CONDO,-1.0,"102 Prairie Heights Dr APT 307, Verona, WI 53593",https://photos.zillowstatic.com/fp/2713bc084b00736c4c5af821f965ccc4-p_e.jpg,1799.0,-89.532656,42.974803,2,1300,True,19,201,54
+1,CONDO,-1.0,"102 Prairie Heights Dr APT 112, Verona, WI 53593",https://photos.zillowstatic.com/fp/fb3168a65bf6a763e0f97c9220c31005-p_e.jpg,1499.0,-89.532404,42.974742,1,800,True,19,201,54
+1,CONDO,-1.0,"6710 Park Ridge Dr APT C, Madison, WI 53719",https://photos.zillowstatic.com/fp/9c25343f76f2c673300f6f07b3738322-p_e.jpg,1499.0,-89.49972,43.042583,2,884,True,17,118,32
+1,CONDO,-1.0,"309 W Washington Ave UNIT 415, Madison, WI 53703",https://photos.zillowstatic.com/fp/47030be3faa16534bfc3454c62f7a35a-p_e.jpg,3999.0,-89.38707,43.07191,2,1287,True,5,22,7
+2,CONDO,-1.0,"5312 Congress Ave APT 2, Madison, WI 53718",https://photos.zillowstatic.com/fp/0baef7559c756f5be7829326c7344ae4-p_e.jpg,2049.0,-89.28605,43.138447,3,1328,True,22,180,55
+3,CONDO,-1.0,"61 Waunona Woods Ct, Madison, WI 53713",https://photos.zillowstatic.com/fp/d3a2b92096d8fb855b851217b7acd040-p_e.jpg,2750.0,-89.34127,43.050003,3,1710,True,13,95,26
+1,CONDO,-1.0,"4130 Bruns Ave, Madison, WI 53714",https://photos.zillowstatic.com/fp/3e51ac6e4f529626bdbc4f685bed989e-p_e.jpg,1849.0,-89.313965,43.100952,1,980,True,19,117,35
+2,CONDO,-1.0,"5323 Brody Dr UNIT 101, Madison, WI 53705",https://photos.zillowstatic.com/fp/5d3961bea913413a9baa4d41cd7c7bf3-p_e.jpg,1689.0,-89.47448,43.07649,2,995,True,9,77,21
+2,CONDO,-1.0,"905 Harbor House Dr UNIT 3, Madison, WI 53719",https://photos.zillowstatic.com/fp/491ca9601ff9c9ec4b6b856621cd3c81-p_e.jpg,1899.0,-89.50789,43.049046,2,1005,True,16,119,32
+2,CONDO,-1.0,"224 Grand Canyon Dr, Madison, WI 53705",https://photos.zillowstatic.com/fp/7bdf8f8af71f0da20548092eac732d55-p_e.jpg,1890.0,-89.496864,43.063316,3,1452,True,12,97,31
+2,CONDO,-1.0,"3100 Lake Mendota Dr APT 605, Madison, WI 53705",https://photos.zillowstatic.com/fp/4ca9376d9972d1cc91192456112e722b-p_e.jpg,3600.0,-89.445526,43.08719,2,1130,True,8,53,15
+2,CONDO,-1.0,"6802 Raymond Rd APT 107, Madison, WI 53719",https://photos.zillowstatic.com/fp/05a47cf18bf425fbd080b118251cb930-p_e.jpg,1990.0,-89.50015,43.032143,2,1564,True,16,120,32
+2,CONDO,-1.0,"351 W Wilson St UNIT 4, Madison, WI 53703",https://photos.zillowstatic.com/fp/14a473c283b0018e53a603f06a7ac281-p_e.jpg,3300.0,-89.385315,43.069065,1,894,True,5,24,8
+1,CONDO,-1.0,"1150 Williamson St APT 205, Madison, WI 53703",https://photos.zillowstatic.com/fp/3e913464353ae928d24afffc1c5a7bcd-p_e.jpg,3100.0,-89.36473,43.083313,2,1090,True,9,52,17
+1,CONDO,-1.0,"1014 Fiedler Ln UNIT 29, Madison, WI 53713",https://photos.zillowstatic.com/fp/a0a22f74cddf85cccc8edfc76b28d189-p_e.jpg,1249.0,-89.399605,43.037582,2,1249,True,9,55,17
+2,CONDO,-1.0,"360 W Washington Ave UNIT 905, Madison, WI 53703",https://photos.zillowstatic.com/fp/d12bc84b44385b5a8d0b54ca4f61f95f-p_e.jpg,4199.0,-89.3884,43.072067,2,1241,True,4,21,6
+2,CONDO,-1.0,"6403 Bridge Rd UNIT 104, Madison, WI 53713",https://photos.zillowstatic.com/fp/9648b93bebe5bf1290766ed482f1129f-p_e.jpg,1990.0,-89.33865,43.050488,2,1136,True,12,99,29
+2,CONDO,-1.0,"123 W Washington Ave UNIT 402, Madison, WI 53703",https://photos.zillowstatic.com/fp/1ce0da74668d8bd8af8f8861a838f869-p_e.jpg,3530.0,-89.38584,43.073254,1,960,True,5,24,7
+1,CONDO,-1.0,"121 S Hamilton St UNIT 305, Madison, WI 53703",https://photos.zillowstatic.com/fp/8656265bf3645ead5ec14213534763fc-p_e.jpg,1779.0,-89.384026,43.072132,1,438,True,6,26,8
+1,CONDO,-1.0,"123 N Blount St APT 107, Madison, WI 53703",https://photos.zillowstatic.com/fp/f0f9f529e9bb0b9290ecc0dde3352abd-p_e.jpg,1785.0,-89.378555,43.081226,1,504,True,7,36,11
+1,CONDO,435.6,"78 Craig Ave, Madison, WI 53705",https://photos.zillowstatic.com/fp/c991a304a43c5348cbd8b4934ef5e444-p_e.jpg,1699.0,-89.47281,43.075962,2,768,True,9,76,21
+1,CONDO,-1.0,"7207 Flagship Dr UNIT 7, Madison, WI 53719",https://photos.zillowstatic.com/fp/b9c46c1d3f7f21c7bdf0e6e2632dc456-p_e.jpg,1650.0,-89.50825,43.04879,2,987,True,15,119,32
+2,CONDO,-1.0,"137 E Wilson St UNIT 314, Madison, WI 53703",https://photos.zillowstatic.com/fp/b5a91f435df8ba202305f49930a16aad-p_e.jpg,4850.0,-89.37858,43.074036,2,1314,True,7,33,10
+2,CONDO,-1.0,"211 S Henry St UNIT 603, Madison, WI 53703",https://photos.zillowstatic.com/fp/2ecd56c46ca08307bfa735741075909e-p_e.jpg,9749.0,-89.38454,43.070923,2,1694,True,5,26,8
+2,CONDO,-1.0,"831 E Mifflin St, Madison, WI 53703",https://photos.zillowstatic.com/fp/f80d88e65a705d511942b534cebabd80-p_e.jpg,3799.0,-89.37488,43.08212,2,1079,True,8,40,12
+2,CONDO,2178.0,"1233 Sherman Ave, Madison, WI 53703",https://photos.zillowstatic.com/fp/f9d4ce4cf1da670f922866a6f062b7ad-p_e.jpg,4499.0,-89.37285,43.091637,4,1967,True,9,50,17
+1,CONDO,-1.0,"332 Amoth Ct APT F, Madison, WI 53704",https://photos.zillowstatic.com/fp/632bd9b4dadcb3d8e9a29158e9e50cd6-p_e.jpg,1999.0,-89.35433,43.091427,1,664,True,13,68,23
+2,CONDO,-1.0,"404 S Blount St UNIT 104, Madison, WI 53703",https://photos.zillowstatic.com/fp/d92d594fcd8cdc54ef774b8960d6fb84-p_e.jpg,5500.0,-89.3734,43.076256,2,1133,True,8,41,14
+1,CONDO,-1.0,"1002 N Sunnyvale Ln, Madison, WI 53713",https://photos.zillowstatic.com/fp/0cf722048f8ab7276098090e8468c2c8-p_e.jpg,990.0,-89.369675,43.03184,1,750,True,12,87,26
+2,CONDO,-1.0,"135 Ponwood Cir, Madison, WI 53717",https://photos.zillowstatic.com/fp/f6187dd5902c4430bd86635a334704d2-p_e.jpg,2250.0,-89.50064,43.081074,2,1238,True,13,108,30
+4,CONDO,-1.0,"137 E Wilson St UNIT 1412, Madison, WI 53703",https://photos.zillowstatic.com/fp/a0386a788acacb6247db9c9afede0f45-p_e.jpg,24999.99,-89.37858,43.074036,3,3556,True,7,33,10
+2,CONDO,-1.0,"155 E Wilson St APT 301, Madison, WI 53703",https://photos.zillowstatic.com/fp/388b8c5ca334629239a82f104d57a968-p_e.jpg,8850.0,-89.37825,43.07457,2,2028,True,8,36,12
+3,CONDO,-1.0,"6408 Offshore Dr, Madison, WI 53705",https://photos.zillowstatic.com/fp/eab443e3ba3b94c76c826f75b0f60347-p_e.jpg,2950.0,-89.49085,43.063553,3,1868,True,12,93,26
+2,CONDO,-1.0,"327 East Blf, Madison, WI 53704",https://photos.zillowstatic.com/fp/f8fe060e6eea6bed19de3f8f24747c69-p_e.jpg,1399.0,-89.364876,43.1325,2,876,True,16,108,32
+2,CONDO,-1.0,"6758 Park Ridge Dr APT C, Madison, WI 53719",https://photos.zillowstatic.com/fp/33076753bd7fe4c2f62c92d0816aed66-p_e.jpg,1699.0,-89.49972,43.042583,2,907,True,17,118,32
+1,CONDO,-1.0,"530 W Doty St UNIT 102, Madison, WI 53703",https://photos.zillowstatic.com/fp/ca356d961df0b749114fd3762a8adcb2-p_e.jpg,2650.0,-89.3902,43.068207,1,852,True,4,19,5
+2,CONDO,-1.0,"615 W Main St APT 109, Madison, WI 53703",https://photos.zillowstatic.com/fp/282292032301620e0bb50b53041be528-p_e.jpg,5490.0,-89.39141,43.06736,2,1703,True,4,17,4
+2,CONDO,-1.0,"116 S Mills St, Madison, WI 53715",https://photos.zillowstatic.com/fp/ea51aad798a46c4dfe470ae35a362536-p_e.jpg,2999.0,-89.404564,43.065624,2,1267,True,2,10,2
+2,CONDO,-1.0,"1804 Maplecrest Dr #203, Verona, WI 53593",https://photos.zillowstatic.com/fp/2fc2b2774d9f8767adc3052ac7753d03-p_e.jpg,4879.0,-89.54148,43.03421,3,1827,True,20,163,46
+2,CONDO,-1.0,"3041 Nessling St, Madison, WI 53719",https://photos.zillowstatic.com/fp/78d4261199c81495a137298a6a5ec846-p_e.jpg,2750.0,-89.51762,43.01726,2,1642,True,19,154,42
+2,CONDO,-1.0,"6 Captains Ct UNIT 6, Madison, WI 53719",https://photos.zillowstatic.com/fp/0f5533d0e20a27dc8f3424f85f516059-p_e.jpg,2150.0,-89.50789,43.049046,2,1333,True,15,117,31
+2,CONDO,-1.0,"23 Saukdale Trl, Madison, WI 53717",https://photos.zillowstatic.com/fp/27b0f520462caa5c72c4549159a0f311-p_e.jpg,2600.0,-89.50894,43.076126,2,1363,True,13,108,32
+2,CONDO,-1.0,"2811 Century Harbor Rd APT 4, Middleton, WI 53562",https://photos.zillowstatic.com/fp/4c2525b51e47ca3c5570149e3e293e8a-p_e.jpg,1690.0,-89.4843,43.10476,2,1250,True,14,116,32
+1,CONDO,-1.0,"2824 Pleasant View Rd UNIT 201, Middleton, WI 53562",https://photos.zillowstatic.com/fp/8377a04bc906591ff8fd7b3f87731fb0-p_e.jpg,1899.0,-89.53733,43.10751,2,998,True,19,165,45
+1,CONDO,-1.0,"7106 Fortune Dr APT 23, Middleton, WI 53562",https://photos.zillowstatic.com/fp/144fff04e6f9048cd6fbddef091e04dc-p_e.jpg,1090.0,-89.504,43.088303,2,896,True,13,115,31
+2,CONDO,-1.0,"5534 Century Ave APT 3, Middleton, WI 53562",https://photos.zillowstatic.com/fp/a47113118bb7be7768ab078ac1c7561a-p_e.jpg,1799.0,-89.47591,43.11074,2,1107,True,14,124,33
+1,CONDO,-1.0,"7106 Fortune Dr APT 26, Middleton, WI 53562",https://photos.zillowstatic.com/fp/fc1efd0cd9977adea56ae58b2b1e6692-p_e.jpg,1249.0,-89.504,43.088303,2,890,True,13,115,31

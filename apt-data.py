@@ -83,4 +83,9 @@ for name in os.listdir('rawdata'):
     allapts.append(df)
 
 df = pd.concat(allapts)
+
+# df = pd.read_csv('apartments.csv')
+df.columns = ['nbath', 'propertyType', 'lotAreaValue', 'address', 'imgSrc', 'budget', 'longitude', 'latitude',
+                    'nbed', 'livingArea', 'hasImage', 'car', 'walk', 'bike']
+print(df)
 df.to_csv('apartments.csv', index=False)
