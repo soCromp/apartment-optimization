@@ -1,0 +1,24 @@
+B 3 C o m p i l a t i o n
+B 119 Include File Summary
+B 135 E x e c u t i o n
+I 135 res_data
+I 172 rank
+I 208 apt_data
+I 277 apt_headr
+I 282 apt_com_t
+B 354 Equation Listing    SOLVE primary_model Using MIP From line 113
+D 357 obj
+D 364 bound_1
+D 375 bound_2
+D 386 bound_3
+B 392 Column Listing      SOLVE primary_model Using MIP From line 113
+E 395 dis
+E 402 b
+B 428 Model Statistics    SOLVE primary_model Using MIP From line 113
+B 441 Solution Report     SOLVE primary_model Using MIP From line 113
+F 487 obj
+F 489 bound_1
+F 524 bound_2
+F 594 bound_3
+G 598 dis
+G 602 b

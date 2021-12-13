@@ -1,0 +1,138 @@
+--- Job primary_model.gms Start 12/12/21 20:04:03 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
+--- Applying:
+    /Library/Frameworks/GAMS.framework/Versions/37/Resources/gmsprmun.txt
+--- GAMS Parameters defined
+    Input /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/primary_model.gms
+    PageSize 0
+    ScrDir /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/225a/
+    SysDir /Library/Frameworks/GAMS.framework/Versions/37/Resources/
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    LstTitleLeftAligned 1
+Licensee: Introduction to Optimization (CS/ISyE/ECE 524) G210907|0002AS-GEN
+          UW-Madison, CS Dept., Fall 2021, Prof. Ferris              DCE850
+          /Users/puqianwang/Library/Application Support/GAMS/gamslice.txt
+          License Admin: Michael C. Ferris, ferris@cs.wisc.edu             
+          Course license for use within the course and related course work
+Processor information: 1 socket(s), 10 core(s), and 10 thread(s) available
+GAMS 37.1.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
+--- Starting compilation
+--- primary_model.gms(36) 3 Mb
+--- GDXin=/Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/small_data.gdx
+--- GDX File ($gdxIn) /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/small_data.gdx
+--- primary_model.gms(41) 3 Mb
+--- GDXin=/Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/rank.gdx
+--- GDX File ($gdxIn) /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/rank.gdx
+--- primary_model.gms(47) 3 Mb
+--- call csv2gdx apartments_new.csv id=Data autoRow=a values=1..lastCol useHeader=y
+No errors, CSV2GDX time = 3ms
+--- primary_model.gms(52) 3 Mb
+--- GDXin=/Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/apartments_new.gdx
+--- GDX File ($gdxIn) /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/apartments_new.gdx
+--- primary_model.gms(61) 3 Mb
+--- GDXin=/Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/apartments_new.gdx
+--- GDX File ($gdxIn) /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/gams_model/apartments_new.gdx
+--- primary_model.gms(118) 3 Mb
+--- Starting execution: elapsed 0:00:00.033
+--- primary_model.gms(87) 4 Mb
+--- Generating MIP model primary_model
+--- primary_model.gms(113) 5 Mb
+---   95 rows  1,891 columns  7,561 non-zeroes
+---   1,890 discrete-columns
+--- Executing CPLEX (Solvelink=2): elapsed 0:00:00.080
+
+IBM ILOG CPLEX   37.1.0 r07954d5 Released Nov 11, 2021 DEG x86 64bit/Mac OS X 
+
+--- GAMS/Cplex licensed for continuous and discrete problems.
+--- GMO setup time: 0.00s
+--- Space for names approximately 0.03 Mb
+--- Use option 'names no' to turn use of names off
+--- GMO memory 0.73 Mb (peak 0.75 Mb)
+--- Dictionary memory 0.00 Mb
+--- Cplex 20.1.0.1 link memory 0.04 Mb (peak 0.17 Mb)
+--- Starting Cplex
+
+Version identifier: 20.1.0.1 | 2021-04-07 | 3a818710c
+CPXPARAM_Advance                                 0
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_MIP_Pool_Capacity                       0
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+Generic callback                                 0x50
+Found incumbent of value 8085.750889 after 0.00 sec. (0.12 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 0 rows and 1 columns.
+Reduced MIP has 94 rows, 1890 columns, and 5670 nonzeros.
+Reduced MIP has 1890 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.02 sec. (4.20 ticks)
+Tried aggregator 1 time.
+Reduced MIP has 94 rows, 1890 columns, and 5670 nonzeros.
+Reduced MIP has 1890 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (4.23 ticks)
+Dual steepest-edge pricing selected.
+Probing time = 0.00 sec. (2.93 ticks)
+Clique table members: 93.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: none, using 1 thread.
+Tried aggregator 1 time.
+No LP presolve or aggregator reductions.
+Presolve time = 0.00 sec. (0.58 ticks)
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Dual objective     =          -954.372084
+Iteration:    62   Dual objective     =          2328.663643
+Iteration:   128   Dual objective     =          2850.036595
+Iteration:   192   Dual objective     =          3002.967045
+Root relaxation solution time = 0.01 sec. (4.37 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                         8085.7509    -1627.8079           120.13%
+Found incumbent of value 8085.750889 after 0.05 sec. (17.92 ticks)
+*     0     0      integral     0     3002.9670     3002.9670      192    0.00%
+Elapsed time = 0.05 sec. (18.04 ticks, tree = 0.00 MB)
+Found incumbent of value 3002.967045 after 0.05 sec. (18.04 ticks)
+
+Root node processing (before b&c):
+  Real time             =    0.05 sec. (18.07 ticks)
+Sequential b&c:
+  Real time             =    0.00 sec. (0.00 ticks)
+                          ------------
+Total (root+branch&cut) =    0.05 sec. (18.07 ticks)
+
+--- MIP status (101): integer optimal solution.
+--- Cplex Time: 0.05sec (det. 18.08 ticks)
+
+--- Fixing integer variables and solving final LP...
+
+Version identifier: 20.1.0.1 | 2021-04-07 | 3a818710c
+CPXPARAM_Advance                                 2
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Display                             4
+CPXPARAM_MIP_Pool_Capacity                       0
+CPXPARAM_MIP_Tolerances_AbsMIPGap                0
+Tried aggregator 1 time.
+LP Presolve eliminated 94 rows and 1891 columns.
+All rows and columns eliminated.
+Presolve time = 0.00 sec. (0.54 ticks)
+
+--- Fixed MIP status (1): optimal.
+--- Cplex Time: 0.00sec (det. 0.72 ticks)
+
+
+Proven optimal solution
+MIP Solution:         3002.967045    (192 iterations, 0 nodes)
+Final Solve:          3002.967045    (0 iterations)
+
+Best possible:        3002.967045
+Absolute gap:            0.000000
+Relative gap:            0.000000
+
+--- Reading solution for model primary_model
+*** Status: Normal completion
+--- Job primary_model.gms Stop 12/12/21 20:04:03 elapsed 0:00:00.210
