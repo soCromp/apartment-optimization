@@ -21,7 +21,7 @@ apartments data:
 
 $offText
 
-
+********************** Read in data **********************
 
 set headr(*);
 set r /1*30/;
@@ -62,14 +62,15 @@ $gdxin apartments_new.gdx
 $load apt_com_t=Data
 $gdxin
 
-set r_method(r,m);
+********************** Format data **********************
+
+set r_method(r,m) "include a (resident i, commute method j) pair in a set only if j is the preferred commute method of i";
 r_method(r,m) = no;
 r_method(r,m) $ (ord(m)=res_data(r,'com_m')) = yes;
 
-
 display apt_data, apt_headr, apt_com_t;
 
-parameter apt_com_t_nm(a,m) "normalized communite time";
+parameter apt_com_t_nm(a,m) "binned commute time - put each commute time into 5-minute interval bins";
 
 set slot /t1*t5/;
 parameter time_slot(slot)
@@ -86,19 +87,24 @@ apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t3') and apt_com_t(a, m)<time_s
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t4') and apt_com_t(a, m)<time_slot('t5')) = 5;
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>time_slot('t5')) = 6;
 
+********************** Model **********************
 
-free variables dis dissatisfication;
+free variable dis "dissatisfication";
 
 Binary Variable
-b(r,a) "b(r,a)=1 if assign resident r to apartment i"
-d(r,m) "d(r, m)=1 if resident r choose method m";
+        b(r,a) "b(r,a)=1 if assign resident r to apartment i"
+        d(r,m) "d(r, m)=1 if resident r choose method m";
 
 equations
-obj, bound_1(r), bound_2(a), bound_3;
+        obj, 
+        bound_1(r) "each apartment gets at most one resident", 
+        bound_2(a) "each resident gets at most one apartment", 
+        bound_3 "count the number of residents assigned apartments";
 
 obj..
 dis =e= sum((r, a), b(r,a) * sum(headr, rank(r, headr)*(apt_data(a, headr)-res_data(r, headr))))
-        +sum((r,a), b(r,a) * rank(r,'com_t')*(sum(m $ r_method(r,m), apt_com_t_nm(a,m)) -res_data(r,'com_t')));
+        + sum((r,a), b(r,a) * rank(r,'com_t')*(sum(m $ r_method(r,m), apt_com_t_nm(a,m)) -res_data(r,'com_t')));
+* second line is dissatisfaction with commute, first line is dissatisfaction with everything else
         
 bound_1(r)..
 sum(a, b(r,a)) =l= 1;
@@ -111,8 +117,3 @@ sum((r,a), b(r,a)) =e= pairs;
 
 model primary_model /all/;
 solve primary_model using mip minimizing dis;
-
-
-
-
-
