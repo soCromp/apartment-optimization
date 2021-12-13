@@ -1,0 +1,29 @@
+
+--- Job residents_data.gms Start 12/12/21 16:57:41 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
+--- Applying:
+    /Library/Frameworks/GAMS.framework/Versions/37/Resources/gmsprmun.txt
+--- GAMS Parameters defined
+    Input /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/residents_data.gms
+    PageSize 0
+    ScrDir /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/225a/
+    SysDir /Library/Frameworks/GAMS.framework/Versions/37/Resources/
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    LstTitleLeftAligned 1
+Licensee: Introduction to Optimization (CS/ISyE/ECE 524) G210907|0002AS-GEN
+          UW-Madison, CS Dept., Fall 2021, Prof. Ferris              DCE850
+          /Users/puqianwang/Library/Application Support/GAMS/gamslice.txt
+          License Admin: Michael C. Ferris, ferris@cs.wisc.edu             
+          Course license for use within the course and related course work
+Processor information: 1 socket(s), 10 core(s), and 10 thread(s) available
+GAMS 37.1.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
+--- Starting compilation
+--- residents_data.gms(24) 3 Mb 1 Error
+*** Error 409 in /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/residents_data.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- residents_data.gms(80) 3 Mb 1 Error
+*** Status: Compilation error(s)
+--- Job residents_data.gms Stop 12/12/21 16:57:41 elapsed 0:00:00.008

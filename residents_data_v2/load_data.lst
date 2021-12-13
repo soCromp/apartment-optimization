@@ -1,0 +1,44 @@
+GAMS 37.1.0  r07954d5 Released Nov 11, 2021 DEX-DEG x86 64bit/Mac OS X - 12/12/21 15:38:21 Page 1
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+C o m p i l a t i o n
+
+
+   1  set labels(*);
+   2  set j /1*30/;
+   3   
+   4  parameter data(j,labels);
+   5   
+GDXIN   /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/small_data.gdx
+   7  $load labels
+****             $492
+**** 492  Symbol not in GDX
+--- LOAD  data = 3:data
+  10   
+  11  display data;
+
+**** 1 ERROR(S)   0 WARNING(S)
+GAMS 37.1.0  r07954d5 Released Nov 11, 2021 DEX-DEG x86 64bit/Mac OS X - 12/12/21 15:38:21 Page 2
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Include File Summary
+
+
+   SEQ   GLOBAL TYPE      PARENT   LOCAL  FILENAME
+
+     1        1 INPUT          0       0  /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/load_data.gms
+     2        6 GDXIN          1       6  /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/small_data.gdx
+
+
+COMPILATION TIME     =        0.004 SECONDS      3 MB  37.1.0 r07954d5 DEX-DEG
+
+
+USER: Introduction to Optimization (CS/ISyE/ECE 524) G210907|0002AS-GEN
+      UW-Madison, CS Dept., Fall 2021, Prof. Ferris              DCE850
+      License for teaching and research at degree granting institutions
+
+
+**** FILE SUMMARY
+
+Input      /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/load_data.gms
+Output     /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/load_data.lst
+
+**** USER ERROR(S) ENCOUNTERED
