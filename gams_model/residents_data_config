@@ -1,0 +1,21 @@
+residents_data_config
+
+nbed: normal(2,1)
+* nbed = 0 if studio
+
+nbath: uniform(1,nbed)
+* nbath < nbed
+* nbath = 1 if studio
+
+budget: normal(1200, 200)
+* budget is set to 500 if budget is less than 500
+
+com_m: uniform(1,4)
+* floored; 1-> drive, 2-> walk, 3-> bike
+
+com_t: normal(15,5)
+* partitioned by a vector time_slot(t): _t1_t2_t3_t4_t5_
+* com_t is set to 1 if com_t<t1; set to 2 if between t1 and t2; etc.
+
+rank: uniform(0,1)
+* the sum is normalized to 1

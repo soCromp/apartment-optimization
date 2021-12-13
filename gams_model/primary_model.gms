@@ -69,7 +69,7 @@ r_method(r,m) $ (ord(m)=res_data(r,'com_m')) = yes;
 
 display apt_data, apt_headr, apt_com_t;
 
-parameter apt_com_t_rl(a,m) "regularized communite time";
+parameter apt_com_t_nm(a,m) "normalized communite time";
 
 set slot /t1*t5/;
 parameter time_slot(slot)
@@ -79,12 +79,12 @@ parameter time_slot(slot)
  t4 20,
  t5 25/;
  
-apt_com_t_rl(a,m) $ (apt_com_t(a, m)<time_slot('t1')) = 1;
-apt_com_t_rl(a,m) $ (apt_com_t(a, m)>=time_slot('t1') and apt_com_t(a, m)<time_slot('t2')) = 2;
-apt_com_t_rl(a,m) $ (apt_com_t(a, m)>=time_slot('t2') and apt_com_t(a, m)<time_slot('t3')) = 3;
-apt_com_t_rl(a,m) $ (apt_com_t(a, m)>=time_slot('t3') and apt_com_t(a, m)<time_slot('t4')) = 4;
-apt_com_t_rl(a,m) $ (apt_com_t(a, m)>=time_slot('t4') and apt_com_t(a, m)<time_slot('t5')) = 5;
-apt_com_t_rl(a,m) $ (apt_com_t(a, m)>time_slot('t5')) = 6;
+apt_com_t_nm(a,m) $ (apt_com_t(a, m)<time_slot('t1')) = 1;
+apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t1') and apt_com_t(a, m)<time_slot('t2')) = 2;
+apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t2') and apt_com_t(a, m)<time_slot('t3')) = 3;
+apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t3') and apt_com_t(a, m)<time_slot('t4')) = 4;
+apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t4') and apt_com_t(a, m)<time_slot('t5')) = 5;
+apt_com_t_nm(a,m) $ (apt_com_t(a, m)>time_slot('t5')) = 6;
 
 
 free variables dis dissatisfication;
@@ -98,7 +98,7 @@ obj, bound_1(r), bound_2(a), bound_3;
 
 obj..
 dis =e= sum((r, a), b(r,a) * sum(headr, rank(r, headr)*(apt_data(a, headr)-res_data(r, headr))))
-        +sum((r,a), b(r,a) * rank(r,'com_t')*(sum(m $ r_method(r,m), apt_com_t_rl(a,m)) -res_data(r,'com_t')));
+        +sum((r,a), b(r,a) * rank(r,'com_t')*(sum(m $ r_method(r,m), apt_com_t_nm(a,m)) -res_data(r,'com_t')));
         
 bound_1(r)..
 sum(a, b(r,a)) =l= 1;
