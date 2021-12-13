@@ -1,5 +1,5 @@
 
---- Job load_data.gms Start 12/09/21 18:56:37 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
+--- Job load_data.gms Start 12/09/21 18:57:19 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
 --- Applying:
     /Library/Frameworks/GAMS.framework/Versions/37/Resources/gmsprmun.txt
 --- GAMS Parameters defined
@@ -24,7 +24,7 @@ GAMS 37.1.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
 --- GDXin=/Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/small_data_set.gdx
 --- GDX File ($gdxIn) /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/small_data_set.gdx
 --- load_data.gms(11) 3 Mb
---- Starting execution: elapsed 0:00:00.003
+--- Starting execution: elapsed 0:00:00.004
 --- load_data.gms(11) 4 Mb
 *** Status: Normal completion
---- Job load_data.gms Stop 12/09/21 18:56:37 elapsed 0:00:00.004
+--- Job load_data.gms Stop 12/09/21 18:57:19 elapsed 0:00:00.005

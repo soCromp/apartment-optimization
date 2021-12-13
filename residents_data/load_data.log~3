@@ -1,5 +1,4 @@
-
---- Job load_data.gms Start 12/09/21 18:56:37 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
+--- Job load_data.gms Start 12/09/21 18:56:04 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
 --- Applying:
     /Library/Frameworks/GAMS.framework/Versions/37/Resources/gmsprmun.txt
 --- GAMS Parameters defined
@@ -23,8 +22,16 @@ GAMS 37.1.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
 --- load_data.gms(6) 3 Mb
 --- GDXin=/Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/small_data_set.gdx
 --- GDX File ($gdxIn) /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/small_data_set.gdx
---- load_data.gms(11) 3 Mb
---- Starting execution: elapsed 0:00:00.003
---- load_data.gms(11) 4 Mb
-*** Status: Normal completion
---- Job load_data.gms Stop 12/09/21 18:56:37 elapsed 0:00:00.004
+--- load_data.gms(8) 3 Mb 1 Error
+*** Error 492 in /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/load_data.gms
+    Symbol not in GDX
+--- load_data.gms(11) 3 Mb 2 Errors
+*** Error 141 in /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/load_data.gms
+    Symbol declared but no values have been assigned. Check for missing
+       data definition, assignment, data loading or implicit assignment
+       via a solve statement.
+       A wild shot: You may have spurious commas in the explanatory
+       text of a declaration. Check symbol reference list.
+--- load_data.gms(11) 3 Mb 2 Errors
+*** Status: Compilation error(s)
+--- Job load_data.gms Stop 12/09/21 18:56:04 elapsed 0:00:00.006

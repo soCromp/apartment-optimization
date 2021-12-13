@@ -1,5 +1,5 @@
 
---- Job residents_data.gms Start 12/12/21 17:00:36 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
+--- Job residents_data.gms Start 12/12/21 16:59:28 37.1.0 r07954d5 DEX-DEG x86 64bit/Mac OS X
 --- Applying:
     /Library/Frameworks/GAMS.framework/Versions/37/Resources/gmsprmun.txt
 --- GAMS Parameters defined
@@ -29,4 +29,4 @@ GAMS 37.1.0   Copyright (C) 1987-2021 GAMS Development. All rights reserved
 --- residents_data.gms(82) 4 Mb
 --- GDX File (execute_unload) /Users/puqianwang/Desktop/courses/CS_524_Intro_Opt/project/apartment-optimization/residents_data/large_data.gdx
 *** Status: Normal completion
---- Job residents_data.gms Stop 12/12/21 17:00:36 elapsed 0:00:00.010
+--- Job residents_data.gms Stop 12/12/21 16:59:28 elapsed 0:00:00.010

@@ -10,7 +10,26 @@ medium(large) $ (ord(large)>60) = no;
 
 set labels /'nbed', 'nbath', 'budget', 'com_m', 'com_t'/;
 
+set com_methods /'d','w','b'/;
+
+
 parameter large_set(large, labels);
+
+****************************************************
+parameter rank_1(large, labels), rank(large, labels);
+
+alias(labels, l);
+
+parameter normalize(large);
+
+loop(large,
+rank_1(large, labels) = uniform(0,1);
+normalize(large) = sum(labels, rank_1(large, labels));
+);
+rank(large, labels) = rank_1(large, labels)/normalize(large);
+
+****************************************************
+
 
 parameter beds;
 loop(large,
@@ -31,8 +50,13 @@ loop(large,
     large_set(large, 'budget') = budgets $ (budgets>=500) + 500 $ (budgets<500);
 );
 
-large_set(large, 'com_m') = floor(uniform(1,4));
-large_set(large, 'com_m') $ (large_set(large, 'com_m')=4) = 3;
+*parameter com_m(large);
+*com_m(large) = floor(uniform(1,4))
+
+*$onText
+
+large_set(large, 'com_m')  = floor(uniform(1,4));
+large_set(large, 'com_m')  $ (large_set(large, 'com_m')=4) = 3
 
 parameters com_time_prim, com_time;
 loop(large,
@@ -45,6 +69,8 @@ com_time $ (com_time_prim>=20 and com_time_prim<25) = 5;
 com_time $ (com_time_prim>=25) = 6;
 large_set(large, 'com_t') = com_time;
 )
+*$offText
+
 
 parameter small_set(large, labels);
 small_set(large, labels) $ (small(large)) = large_set(large, labels);
@@ -52,9 +78,10 @@ small_set(large, labels) $ (small(large)) = large_set(large, labels);
 parameter medium_set(large, labels);
 medium_set(large, labels) $ (medium(large)) = large_set(large, labels);
 
-display large_set, small_set, medium_set;
+display large_set, small_set, medium_set, rank, normalize;
 
 execute_unload 'small_data' labels=headr, small = index, small_set=data;
 execute_unload 'medium_data' labels=headr, medium = index, medium_set=data;
 execute_unload 'large_data' labels=headr, large = index, large_set=data;
+execute_unload 'rank' labels=headr, large=index, rank=data;
 
