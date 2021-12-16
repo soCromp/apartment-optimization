@@ -88,6 +88,14 @@ apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t3') and apt_com_t(a, m)<time_s
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t4') and apt_com_t(a, m)<time_slot('t5')) = 5;
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>time_slot('t5')) = 6;
 
+parameter
+abs_diff(r,a,headr) "absolute difference between apartment a and and resident r",
+abs_diff_cmt(r,a) "absolute difference of commute time between apartment a and resident r";
+
+abs_diff(r,a,headr) = abs(apt_data(a, headr)-res_data(r, headr));
+abs_diff_cmt(r,a) = abs(sum(m $ r_method(r,m), apt_com_t_nm(a,m)) -res_data(r,'com_t'));
+
+
 ********************** Model **********************
 
 scalars
@@ -133,8 +141,8 @@ equations
 
 
 calcrdis(r)..
-dis(r) =e= sum(a, b(r,a) * sum(headr, rank(r, headr)*(apt_data(a, headr)-res_data(r, headr))))
-        + sum(a, b(r,a) * rank(r,'com_t')*(sum(m $ r_method(r,m), apt_com_t_nm(a,m)) -res_data(r,'com_t')));
+dis(r) =e= sum(a, b(r,a) * sum(headr, rank(r, headr)*abs_diff(r,a,headr)))
+        + sum(a, b(r,a) * rank(r,'com_t')*abs_diff_cmt(r,a));
 * second line is dissatisfaction with commute, first line is dissatisfaction with everything else
 
 findbetter(r, r2)..
@@ -247,6 +255,7 @@ sto_assignment(r,a) = b.l(r,a);
 display tradeoff_dis, sto_dis, tradeoff_assignment, sto_assignment;
 
 
+*************************** varying lamda ****************************
 
 
 

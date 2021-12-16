@@ -62,6 +62,7 @@ $gdxin apartments_new.gdx
 $load apt_com_t=Data
 $gdxin
 
+
 ********************** Format data **********************
 
 set r_method(r,m) "include a (resident i, commute method j) pair in a set only if j is the preferred commute method of i";
@@ -87,25 +88,42 @@ apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t3') and apt_com_t(a, m)<time_s
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t4') and apt_com_t(a, m)<time_slot('t5')) = 5;
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>time_slot('t5')) = 6;
 
+
+parameter
+abs_diff(r,a,headr) "absolute difference between apartment a and and resident r",
+abs_diff_cmt(r,a) "absolute difference of commute time between apartment a and resident r";
+
+abs_diff(r,a,headr) = abs(apt_data(a, headr)-res_data(r, headr));
+abs_diff_cmt(r,a) = abs(sum(m $ r_method(r,m), apt_com_t_nm(a,m)) -res_data(r,'com_t'));
+
+
+
 ********************** Model **********************
 
 free variable dis "dissatisfication";
+
+variable rdis(r);
+
+positive variables z(r,a,headr), zm(r,a);
 
 Binary Variable
         b(r,a) "b(r,a)=1 if assign resident r to apartment i"
         d(r,m) "d(r, m)=1 if resident r choose method m";
 
 equations
-        obj, 
+        obj, calcdis(r),
         bound_1(r) "each apartment gets at most one resident", 
         bound_2(a) "each resident gets at most one apartment", 
         bound_3 "count the number of residents assigned apartments";
 
 obj..
-dis =e= sum((r, a), b(r,a) * sum(headr, rank(r, headr)*(apt_data(a, headr)-res_data(r, headr))))
-        + sum((r,a), b(r,a) * rank(r,'com_t')*(sum(m $ r_method(r,m), apt_com_t_nm(a,m)) -res_data(r,'com_t')));
+dis =e= sum(r, rdis(r));
+
+calcdis(r)..
+rdis(r) =e= sum(a, b(r,a) * sum(headr, rank(r, headr)*abs_diff(r,a,headr)))
+        + sum(a, b(r,a) * rank(r,'com_t') * abs_diff_cmt(r,a));
 * second line is dissatisfaction with commute, first line is dissatisfaction with everything else
-        
+       
 bound_1(r)..
 sum(a, b(r,a)) =l= 1;
 
@@ -117,3 +135,9 @@ sum((r,a), b(r,a)) =e= pairs;
 
 model primary_model /all/;
 solve primary_model using mip minimizing dis;
+
+parameter average_dis;
+
+average_dis = dis.l/card(r);
+
+display average_dis;
