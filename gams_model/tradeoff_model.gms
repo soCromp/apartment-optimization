@@ -88,6 +88,12 @@ apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t3') and apt_com_t(a, m)<time_s
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>=time_slot('t4') and apt_com_t(a, m)<time_slot('t5')) = 5;
 apt_com_t_nm(a,m) $ (apt_com_t(a, m)>time_slot('t5')) = 6;
 
+scalar budget_mean "the mean value of the budget, get it from residents_data" /1200/;
+* normalize the budget with mean value 2
+res_data(r, 'budget') = 2*res_data(r, 'budget')/budget_mean;
+
+apt_data(a,'budget') = 2*apt_data(a,'budget')/budget_mean;
+
 parameter
 abs_diff(r,a,headr) "absolute difference between apartment a and and resident r",
 abs_diff_cmt(r,a) "absolute difference of commute time between apartment a and resident r";
