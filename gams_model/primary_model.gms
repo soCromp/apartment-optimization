@@ -120,8 +120,8 @@ obj..
 dis =e= sum(r, rdis(r));
 
 calcdis(r)..
-rdis(r) =e= sum(a, b(r,a) * sum(headr, rank(r, headr)*abs_diff(r,a,headr)))
-        + sum(a, b(r,a) * rank(r,'com_t') * abs_diff_cmt(r,a));
+rdis(r) =e=1/card(r)* (sum(a, b(r,a) * sum(headr, rank(r, headr)*abs_diff(r,a,headr)))
+        + sum(a, b(r,a) * rank(r,'com_t') * abs_diff_cmt(r,a)));
 * second line is dissatisfaction with commute, first line is dissatisfaction with everything else
        
 bound_1(r)..
