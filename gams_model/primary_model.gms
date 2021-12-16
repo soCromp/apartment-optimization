@@ -42,8 +42,6 @@ $gdxin rank.gdx
 $load rank=data
 $gdxin
 
-display res_data, rank;
-
 $call csv2gdx apartments_new.csv id=Data autoRow=a values=1..lastCol useHeader=y
 
 set apt_headr(*);
@@ -53,6 +51,26 @@ $gdxin apartments_new.gdx
 $load apt_headr=Dim2
 $load apt_data=Data
 $gdxin
+
+**********************************************************
+$onText
+notes on the normalization of budgets/prices:
+
+* for residents, since we know the budget is generated from norm(1200,200), we simply scale it by 600, hence the mean would be 2;
+* for apartment prices, we scale it by 600 too.
+
+$offtext
+scalar budget_mean "the mean value of the budget, get it from residents_data" /1200/;
+* normalize the budget with mean value 2
+res_data(r, 'budget') = 2*res_data(r, 'budget')/budget_mean;
+
+apt_data(a,'budget') = 2*apt_data(a,'budget')/budget_mean;
+
+***********************************************************
+
+display res_data, rank;
+
+
 
 set m "m1:drive, m2:walk, m3: drive" /m1*m3/;
 
